@@ -535,9 +535,12 @@ class AdalineSGD(object):
         return np.where(self.activation(self.net_input(X)) >= 0.0, 1, -1)
 
 
+#確率的勾配降下法によるADALINEの学習
 ada = AdalineSGD(n_iter=15, eta=0.01, random_state=1)
+#モデルへの適合
 ada.fit(X_std, y)
 
+#境界領域のプロット
 plot_decision_regions(X_std, y, classifier=ada)
 plt.title('Adaline - Stochastic Gradient Descent')
 plt.xlabel('sepal length [standardized]')
@@ -548,6 +551,7 @@ plt.tight_layout()
 # plt.savefig('images/02_15_1.png', dpi=300)
 plt.show()
 
+#エポックとコストの折れ線グラフのプロット
 plt.plot(range(1, len(ada.cost_) + 1), ada.cost_, marker='o')
 plt.xlabel('Epochs')
 plt.ylabel('Average Cost')
