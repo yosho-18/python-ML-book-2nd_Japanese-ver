@@ -116,7 +116,9 @@ print('Labels counts in y_test:', np.bincount(y_test))
 
 
 sc = StandardScaler()
+#トレーニングデータの平均と標準偏差を計算
 sc.fit(X_train)
+#平均と標準偏差を用いて標準化
 X_train_std = sc.transform(X_train)
 X_test_std = sc.transform(X_test)
 

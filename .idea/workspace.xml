@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14b08131-a175-4eae-bd58-908739a8f274" name="Default Changelist" comment="modify">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-machine-learning-book-2nd-edition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-machine-learning-book-2nd-edition.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/ch02/ch02.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch02/ch02.py" afterDir="false" />
-      <change beforePath="I:/GitHub/Neural_Ordinary_Differential_Equations/tests/DETEST/run.py" beforeDir="false" afterPath="I:/GitHub/Neural_Ordinary_Differential_Equations/tests/DETEST/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ch03/ch03.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch03/ch03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ch03/tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch03/tree.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,47 +16,61 @@
     <session id="-182575875">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.76" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="logs" value="1" />
-          <entry key="png" value="1" />
-          <entry key="py" value="55" />
+          <entry key="png" value="5" />
+          <entry key="py" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="1" />
+          <entry key="Image" value="5" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="55" />
+          <entry key="Python" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="350" />
+          <entry key="py" value="391" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="350" />
+          <entry key="Python" value="391" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/ch02/ch02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="9350">
               <caret line="553" column="21" selection-start-line="553" selection-start-column="21" selection-end-line="553" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/ch03/ch03.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="117" column="21" lean-forward="true" selection-start-line="117" selection-start-column="21" selection-end-line="117" selection-end-column="21" />
+              <folding>
+                <element signature="e#18#68#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +94,7 @@
         <option value="I:/GitHub/Neural_Ordinary_Differential_Equations/tests/run_all.py" />
         <option value="I:/GitHub/Neural_Ordinary_Differential_Equations/tests/DETEST/run.py" />
         <option value="$PROJECT_DIR$/code/ch02/ch02.py" />
+        <option value="$PROJECT_DIR$/code/ch03/ch03.py" />
       </list>
     </option>
   </component>
@@ -113,16 +127,7 @@
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-ML-book-2nd_Japanese-ver" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="ch02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Neural_Ordinary_Differential_Equations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Neural_Ordinary_Differential_Equations" type="462c0819:PsiDirectoryNode" />
-              <item name="torchdiffeq" type="462c0819:PsiDirectoryNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,7 +137,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="I:/GitHub/Neural_Ordinary_Differential_Equations" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ch02">
+  <component name="RunManager" selected="Python.ch03">
     <configuration name="ch02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-machine-learning-book-2nd-edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +165,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch02/ch02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ch03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-machine-learning-book-2nd-edition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch03/ch03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,34 +250,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in gradient_tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Neural_Ordinary_Differential_Equations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="I:/GitHub/Neural_Ordinary_Differential_Equations" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;I:/GitHub/Neural_Ordinary_Differential_Equations/tests/gradient_tests.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests in gradient_tests.py" />
       <item itemvalue="Python.problems" />
       <item itemvalue="Python tests.Unittests in api_tests.py" />
       <item itemvalue="Python.latent_ode" />
       <item itemvalue="Python.ch02" />
+      <item itemvalue="Python.ch03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ch03" />
         <item itemvalue="Python.ch02" />
         <item itemvalue="Python.latent_ode" />
         <item itemvalue="Python tests.Unittests in api_tests.py" />
         <item itemvalue="Python.problems" />
-        <item itemvalue="Python tests.Unittests in gradient_tests.py" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +303,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25641027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2628205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
@@ -306,8 +318,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Run" order="3" weight="0.32959402" />
-      <window_info active="true" anchor="right" id="Debug" order="4" visible="true" weight="0.23130342" />
+      <window_info active="true" anchor="right" id="Run" order="3" visible="true" weight="0.32959402" />
+      <window_info anchor="right" id="Debug" order="4" weight="0.23130342" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -358,29 +370,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/misc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-362" />
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/odeint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-532" />
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/tsit5.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/dopri5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#93#105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/misc.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/odeint.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/tsit5.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/dopri5.py" />
     <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_001-010/ABC004/A.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -394,165 +387,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/rk_common.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/ode_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/run_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/interp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/DETEST/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/DETEST/detest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/DETEST/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/odenet_mnist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5899">
-          <caret line="347" column="37" selection-start-line="347" selection-start-column="37" selection-end-line="347" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/odeint_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2363">
-          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/gradient_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/fixed_adams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/api_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="61" lean-forward="true" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/latent_ode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4221">
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/problems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702">
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adjoint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2027">
-          <caret line="145" column="58" selection-start-line="145" selection-start-column="58" selection-end-line="145" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/ground_truth.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/experiment1/logs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/__init__.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/rk_common.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/ode_demo.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/run_all.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/interp.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/DETEST/__init__.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/DETEST/detest.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/DETEST/run.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/odenet_mnist.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/odeint_tests.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/gradient_tests.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/fixed_adams.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/api_tests.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/latent_ode.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/problems.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adjoint.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adams.py" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/ground_truth.png" />
+    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/experiment1/logs" />
     <entry file="file://$PROJECT_DIR$/code/ch02/ch02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="9350">
           <caret line="553" column="21" selection-start-line="553" selection-start-column="21" selection-end-line="553" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ch03/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ch03/tree.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ch03/ch03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="117" column="21" lean-forward="true" selection-start-line="117" selection-start-column="21" selection-end-line="117" selection-end-column="21" />
+          <folding>
+            <element signature="e#18#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
