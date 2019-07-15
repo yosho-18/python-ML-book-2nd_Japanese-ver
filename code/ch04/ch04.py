@@ -72,7 +72,7 @@ from sklearn.feature_selection import SelectFromModel
 
 
 
-
+#サンプルデータを作成
 csv_data = '''A,B,C,D
 1.0,2.0,3.0,4.0
 5.0,6.0,,8.0
@@ -81,15 +81,15 @@ csv_data = '''A,B,C,D
 # If you are using Python 2.7, you need
 # to convert the string to unicode:
 
-if (sys.version_info < (3, 0)):
-    csv_data = unicode(csv_data)
-
+"""if (sys.version_info < (3, 0)):
+    csv_data = unicode(csv_data)"""
+#サンプルデータを読み込む
 df = pd.read_csv(StringIO(csv_data))
 df
 
 
 
-
+#各特長量の欠損値をカウント
 df.isnull().sum()
 
 
@@ -105,23 +105,23 @@ df.values
 
 
 
-# remove rows that contain missing values
+# remove rows（行） that contain missing values
 
 df.dropna(axis=0)
 
 
 
 
-# remove columns that contain missing values
+# remove columns（列） that contain missing values
 
 df.dropna(axis=1)
 
 
 
 
-# remove columns that contain missing values
+"""# remove columns that contain missing values
 
-df.dropna(axis=1)
+df.dropna(axis=1)"""
 
 
 
@@ -134,14 +134,14 @@ df.dropna(how='all')
 
 
 # drop rows that have less than 3 real values 
-
+#非NaN値が4つ未満の行を削除
 df.dropna(thresh=4)
 
 
 
 
 # only drop rows where NaN appear in specific columns (here: 'C')
-
+#特定の列"C"にNaNが含まれている行だけを削除
 df.dropna(subset=['C'])
 
 
@@ -158,9 +158,11 @@ df.values
 
 # impute missing values via the column mean
 
-
+#欠損値補完のインスタンスを生成（平均値補完）
 imr = Imputer(missing_values='NaN', strategy='mean', axis=0)
+#データを適合
 imr = imr.fit(df.values)
+#補完を実行
 imputed_data = imr.transform(df.values)
 imputed_data
 
@@ -183,11 +185,11 @@ imputed_data
 
 
 
-
+#サンプルデータを生成（Tシャツの色・サイズ・価格・クラスラベル）
 df = pd.DataFrame([['green', 'M', 10.1, 'class2'],
                    ['red', 'L', 13.5, 'class1'],
                    ['blue', 'XL', 15.3, 'class2']])
-
+#列名を設定
 df.columns = ['color', 'size', 'price', 'classlabel']
 df
 
@@ -196,17 +198,17 @@ df
 # ## Mapping ordinal features
 
 
-
+#Tシャツのサイズと整数を対応させるディクショナリを生成
 size_mapping = {'XL': 3,
                 'L': 2,
                 'M': 1}
-
+#Tシャツのサイズを整数に変換
 df['size'] = df['size'].map(size_mapping)
 df
 
 
 
-
+#もとに戻す
 inv_size_mapping = {v: k for k, v in size_mapping.items()}
 df['size'].map(inv_size_mapping)
 
@@ -219,6 +221,7 @@ df['size'].map(inv_size_mapping)
 
 # create a mapping dict
 # to convert class labels from strings to integers
+#Tシャツのサイズと整数を対応させるディクショナリを生成
 class_mapping = {label: idx for idx, label in enumerate(np.unique(df['classlabel']))}
 class_mapping
 
@@ -226,6 +229,7 @@ class_mapping
 
 
 # to convert class labels from strings to integers
+#クラスラベルを整数に変換
 df['classlabel'] = df['classlabel'].map(class_mapping)
 df
 
@@ -233,6 +237,7 @@ df
 
 
 # reverse the class label mapping
+#もとに戻す
 inv_class_mapping = {v: k for k, v in class_mapping.items()}
 df['classlabel'] = df['classlabel'].map(inv_class_mapping)
 df
@@ -242,7 +247,9 @@ df
 
 
 # Label encoding with sklearn's LabelEncoder
+#ラベルエンコーダのインスタンスを生成
 class_le = LabelEncoder()
+#クラスラベルから整数に変換
 y = class_le.fit_transform(df['classlabel'].values)
 y
 
@@ -250,6 +257,7 @@ y
 
 
 # reverse mapping
+#もとに戻す
 class_le.inverse_transform(y)
 
 
@@ -259,7 +267,7 @@ class_le.inverse_transform(y)
 # ## Performing one-hot encoding on nominal features
 
 
-
+#Tシャツの色，サイズ，価格を抽出
 X = df[['color', 'size', 'price']].values
 
 color_le = LabelEncoder()
@@ -269,8 +277,9 @@ X
 
 
 
-
+#one-hot-encoderの生成
 ohe = OneHotEncoder(categorical_features=[0])
+#one-hotエンコーディングを実行
 ohe.fit_transform(X).toarray()
 
 
@@ -300,8 +309,9 @@ pd.get_dummies(df[['price', 'color', 'size']], drop_first=True)
 
 
 # multicollinearity guard for the OneHotEncoder
-
+#one-hot-encoderの生成
 ohe = OneHotEncoder(categorical_features=[0])
+#one-hotエンコーディングを実行，列削除
 ohe.fit_transform(X).toarray()[:, 1:]
 
 
@@ -309,7 +319,7 @@ ohe.fit_transform(X).toarray()[:, 1:]
 # # Partitioning a dataset into a seperate training and test set
 
 
-
+#wineデータセットを読み込む
 df_wine = pd.read_csv('https://archive.ics.uci.edu/'
                       'ml/machine-learning-databases/wine/wine.data',
                       header=None)
@@ -320,22 +330,24 @@ df_wine = pd.read_csv('https://archive.ics.uci.edu/'
 
 # df_wine = pd.read_csv('wine.data', header=None)
 
-
+#列名を設定
 df_wine.columns = ['Class label', 'Alcohol', 'Malic acid', 'Ash',
                    'Alcalinity of ash', 'Magnesium', 'Total phenols',
                    'Flavanoids', 'Nonflavanoid phenols', 'Proanthocyanins',
                    'Color intensity', 'Hue', 'OD280/OD315 of diluted wines',
                    'Proline']
-
+#クラスラベルを表示
 print('Class labels', np.unique(df_wine['Class label']))
+#wineデータセットの先頭５行を表示
 df_wine.head()
 
 
 
 
-
+#特徴量とクラスラベルを別々に抽出
 X, y = df_wine.iloc[:, 1:].values, df_wine.iloc[:, 0].values
-
+#トレーニングデータとテストデータに分割
+#全体の30％をテストデータにする
 X_train, X_test, y_train, y_test =    train_test_split(X, y, 
                      test_size=0.3, 
                      random_state=0, 
@@ -346,16 +358,19 @@ X_train, X_test, y_train, y_test =    train_test_split(X, y,
 # # Bringing features onto the same scale
 
 
-
-
+#正規化
+#min-maxスケーリングのインスタンスを生成
 mms = MinMaxScaler()
+#トレーニングデータをスケーリング
 X_train_norm = mms.fit_transform(X_train)
+#テストデータをスケーリング
 X_test_norm = mms.transform(X_test)
 
 
 
 
-
+#標準化
+#標準化のインスタンスを生成（平均＝0，標準偏差＝1に変換）
 stdsc = StandardScaler()
 X_train_std = stdsc.fit_transform(X_train)
 X_test_std = stdsc.transform(X_test)
@@ -403,7 +418,7 @@ print('normalized:', (ex - ex.min()) / (ex.max() - ex.min()))
 # For regularized models in scikit-learn that support L1 regularization, we can simply set the `penalty` parameter to `'l1'` to obtain a sparse solution:
 
 
-
+#L1正則化ロジスティック回帰のインスタンスを生成
 LogisticRegression(penalty='l1')
 
 

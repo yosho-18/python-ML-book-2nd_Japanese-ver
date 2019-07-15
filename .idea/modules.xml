@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../AtCoder/.idea/AtCoder.iml" filepath="$PROJECT_DIR$/../AtCoder/.idea/AtCoder.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/.idea/Neural_Ordinary_Differential_Equations.iml" filepath="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/.idea/Neural_Ordinary_Differential_Equations.iml" />
-      <module fileurl="file://I:/GitHub/Neural_Ordinary_Differential_Equations/.idea/Neural_Ordinary_Differential_Equations.iml" filepath="I:/GitHub/Neural_Ordinary_Differential_Equations/.idea/Neural_Ordinary_Differential_Equations.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python-machine-learning-book-2nd-edition.iml" filepath="$PROJECT_DIR$/.idea/python-machine-learning-book-2nd-edition.iml" />
     </modules>
   </component>

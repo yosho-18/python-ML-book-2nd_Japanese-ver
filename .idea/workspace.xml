@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14b08131-a175-4eae-bd58-908739a8f274" name="Default Changelist" comment="modify">
+      <change beforePath="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/ground_truth.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/ground_truth.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-machine-learning-book-2nd-edition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-machine-learning-book-2nd-edition.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ch04/ch04.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch04/ch04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/ch05/ch05.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/ch05/ch05.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,48 +18,48 @@
     <session id="-182575875">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.76" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="logs" value="1" />
           <entry key="png" value="5" />
-          <entry key="py" value="112" />
+          <entry key="py" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="5" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="112" />
+          <entry key="Python" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1117" />
+          <entry key="py" value="3344" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="1117" />
+          <entry key="Python" value="3344" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/code/ch03/ch03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="974">
+            <state relative-caret-position="-6312">
               <caret line="91" column="15" selection-start-line="91" selection-start-column="15" selection-end-line="91" selection-end-column="15" />
               <folding>
                 <element signature="e#18#68#0" expanded="true" />
@@ -70,17 +71,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adams.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
+            <state relative-caret-position="34">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../AtCoder/airoiro/a_iehn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="323">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#105#0" expanded="true" />
               </folding>
@@ -89,19 +90,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../AtCoder/airoiro/iro1.py">
+        <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+            <state relative-caret-position="204">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../AtCoder/aaLibrary1/Umion_Find2.py">
+        <entry file="file://$PROJECT_DIR$/code/ch05/ch05.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state relative-caret-position="595">
+              <caret line="224" column="31" selection-start-line="224" selection-start-column="31" selection-end-line="224" selection-end-column="31" />
+              <folding>
+                <element signature="e#18#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,7 +124,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../AtCoder" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -140,6 +147,29 @@
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC055/A.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC056/A.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC056/B.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC052/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC051/B.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC051/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC020/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC020/B.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC020/C.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC019/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC019/B.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC019/C.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC019/D.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC018/B.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC017/B.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC017/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC015/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC014/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC013/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC012/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ABC011/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC049/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC046/A.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_121-130/ABC130/D.py" />
+        <option value="$PROJECT_DIR$/code/ch04/ch04.py" />
+        <option value="$PROJECT_DIR$/code/ch05/ch05.py" />
       </list>
     </option>
   </component>
@@ -163,28 +193,18 @@
           <expand>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="python-ML-book-2nd_Japanese-ver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="aaLibrary1" type="462c0819:PsiDirectoryNode" />
+              <item name="python-ML-book-2nd_Japanese-ver" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="airoiro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="AtC_Reg_Con_051-060" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="AtC_Reg_Con_051-060" type="462c0819:PsiDirectoryNode" />
-              <item name="ARC056" type="462c0819:PsiDirectoryNode" />
+              <item name="python-ML-book-2nd_Japanese-ver" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,6 +218,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nomo\Documents\GitHub\AtCoder" />
+      <recent name="C:\Users\nomo\Documents\GitHub\AtCoder\AtC_Reg_Con_041-050" />
       <recent name="C:\Users\nomo\Documents\GitHub\AtCoder\AtC_Reg_Con_051-060" />
     </key>
   </component>
@@ -213,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.B">
+  <component name="RunManager" selected="Python.D">
     <configuration name="A (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,11 +244,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC055" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC049" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC055/A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC049/A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,11 +265,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC056" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC046" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC056/A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC046/A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,7 +278,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="A" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="D" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -264,11 +286,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC057" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_121-130/ABC130" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC057/A.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_121-130/ABC130/D.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,19 +299,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="B" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AtCoder" />
+    <configuration name="ch04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-machine-learning-book-2nd-edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC056" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/ch04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC056/B.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/ch04/ch04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,7 +320,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="adams" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="latent_ode" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Neural_Ordinary_Differential_Equations" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,11 +328,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adams.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,19 +342,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.adams" />
-      <item itemvalue="Python.A" />
       <item itemvalue="Python.A (1)" />
+      <item itemvalue="Python.latent_ode" />
       <item itemvalue="Python.A (2)" />
-      <item itemvalue="Python.B" />
+      <item itemvalue="Python.ch04" />
+      <item itemvalue="Python.D" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.B" />
+        <item itemvalue="Python.D" />
+        <item itemvalue="Python.ch04" />
         <item itemvalue="Python.A (2)" />
+        <item itemvalue="Python.latent_ode" />
         <item itemvalue="Python.A (1)" />
-        <item itemvalue="Python.A" />
-        <item itemvalue="Python.adams" />
       </list>
     </recent_temporary>
   </component>
@@ -370,9 +392,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2628205" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26602563" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
@@ -388,7 +409,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Run" order="3" weight="0.32959402" />
-      <window_info active="true" anchor="right" id="Debug" order="4" visible="true" weight="0.23130342" />
+      <window_info anchor="right" id="Debug" order="4" weight="0.23130342" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2628205" />
@@ -406,8 +427,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Run" order="3" weight="0.32959402" />
-      <window_info anchor="right" id="Debug" order="4" visible="true" weight="0.23130342" />
+      <window_info anchor="right" id="Run" order="3" visible="true" weight="0.32959402" />
+      <window_info anchor="right" id="Debug" order="4" weight="0.23130342" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -452,319 +473,236 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/odeint_tests.py" />
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/gradient_tests.py" />
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/fixed_adams.py" />
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/api_tests.py" />
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/latent_ode.py" />
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/tests/problems.py" />
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adjoint.py" />
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adams.py" />
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/ground_truth.png" />
-    <entry file="file://I:/GitHub/Neural_Ordinary_Differential_Equations/examples/experiment1/logs" />
-    <entry file="file://$PROJECT_DIR$/code/ch02/ch02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9350">
-          <caret line="553" column="21" selection-start-line="553" selection-start-column="21" selection-end-line="553" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ch03/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ch03/tree.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/odenet_mnist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5646">
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/ode_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2300">
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4986">
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/tests/gradient_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1620">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/tests/odeint_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1875">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/tests/problems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702">
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/tests/run_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/tests/api_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-311">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/tests/DETEST/detest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4918">
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/tests/DETEST/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/tests/DETEST/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC050/D.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/dopri5.py">
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC050/B.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1209" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/fixed_grid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/interp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/fixed_adams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2827">
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adjoint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1501">
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/misc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2569">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/odeint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-532">
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/solvers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1076">
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/rk_common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-549" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/tsit5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1603">
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/ch03/ch03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="974">
-          <caret line="91" column="15" selection-start-line="91" selection-start-column="15" selection-end-line="91" selection-end-column="15" />
-          <folding>
-            <element signature="e#18#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="332" selection-start-line="332" selection-end-line="332" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC053/A.py">
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC049/D.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC054/A.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC055/D.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC055/C.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC055/B.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC057/A.py">
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC049/C.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#105#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adams.py">
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC049/B.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC055/A.py">
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC048/B.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC056/A.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC048/C.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/aaLibrary1/Union_Find.py">
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC048/D.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC047/B.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC047/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC047/D.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC047/C.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC046/B.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC046/C.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC046/D.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC045/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC045/B.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC045/C.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC045/D.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC044/B.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC044/C.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC044/D.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC044/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC043/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC043/B.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC043/C.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC043/D.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC042/B.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC042/C.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC042/D.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC042/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC041/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC041/B.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC041/C.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC041/D.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_031-040/ARC031/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_021-030/ARC021/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_011-020/ARC011/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_001-010/ARC001/A.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC049/A.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-821" />
+        <state relative-caret-position="408">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../AtCoder/aaLibrary1/Umion_Find2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../AtCoder/airoiro/iro1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_051-060/ARC056/B.py">
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adams.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="118" column="23" lean-forward="true" selection-start-line="118" selection-start-column="23" selection-end-line="118" selection-end-column="23" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/airoiro/a_iehn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#105#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/airoiro/a_iehn.py">
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC046/A.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_121-130/ABC130/C.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
             <element signature="e#0#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_121-130/ABC130/D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ch04/ch04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="420" column="25" selection-start-line="420" selection-start-column="25" selection-end-line="420" selection-end-column="25" />
+          <folding>
+            <element signature="e#18#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ch05/ch05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="224" column="31" selection-start-line="224" selection-start-column="31" selection-end-line="224" selection-end-column="31" />
+          <folding>
+            <element signature="e#18#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/ch03/ch03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6312">
+          <caret line="91" column="15" selection-start-line="91" selection-start-column="15" selection-end-line="91" selection-end-column="15" />
+          <folding>
+            <element signature="e#18#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
