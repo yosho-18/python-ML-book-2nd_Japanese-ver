@@ -7,5 +7,7 @@
     <orderEntry type="module" module-name="AtCoder" />
     <orderEntry type="module" module-name="Neural_Ordinary_Differential_Equations" />
     <orderEntry type="module" module-name="Neural_Ordinary_Differential_Equations" />
+    <orderEntry type="module" module-name="numpy_collection" />
+    <orderEntry type="module" module-name="pytorch_collection" />
   </component>
 </module>
