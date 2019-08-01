@@ -426,18 +426,21 @@ LogisticRegression(penalty='l1')
 
 
 
-
+# L1正則化ロジスティクス回帰のインスタンスを生成（逆正則化パラメータC=1.0）
 lr = LogisticRegression(penalty='l1', C=1.0)
 # Note that C=1.0 is the default. You can increase
 # or decrease it to make the regulariztion effect
 # stronger or weaker, respectively.
+# トレーニングデータに適合
 lr.fit(X_train_std, y_train)
+# トレーニングデータに対する正解率の表示
 print('Training accuracy:', lr.score(X_train_std, y_train))
+# テストデータに対する正解率の表示
 print('Test accuracy:', lr.score(X_test_std, y_test))
 
 
 
-
+# 切片の表示
 lr.intercept_
 
 
@@ -452,7 +455,7 @@ lr.coef_[lr.coef_!=0].shape
 
 
 
-
+# 重み係数の表示
 lr.coef_
 
 
