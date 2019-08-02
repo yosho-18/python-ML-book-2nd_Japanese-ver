@@ -443,8 +443,9 @@ plt.show()
 
 # ## Dealing with the nonlinearly separable case using slack variables
 
-
+# 線形SVMのインスタンスを生成
 svm = SVC(kernel='linear', C=1.0, random_state=1)
+# 線形SVMのモデルにトレーニングデータを適合させる
 svm.fit(X_train_std, y_train)
 
 plot_decision_regions(X_combined_std,
@@ -460,9 +461,13 @@ plt.show()
 
 # ## Alternative implementations in scikit-learn
 
+# SGDClassifier：確率的勾配降下法に似ている
 
+# 確率的勾配降下法バージョンのパーセプトロンを生成
 ppn = SGDClassifier(loss='perceptron', n_iter=1000)
+# 確率的勾配降下法バージョンのロジスティック回帰を生成
 lr = SGDClassifier(loss='log', n_iter=1000)
+# 確率的勾配降下法バージョンのSVM（損失関数＝ヒンジ関数）を生成
 svm = SGDClassifier(loss='hinge', n_iter=1000)
 
 # **Note**
@@ -503,7 +508,7 @@ plt.show()
 
 # ## Using the kernel trick to find separating hyperplanes in higher dimensional space
 
-
+# RBFカーネルによるSVMのインスタンスを生成
 svm = SVC(kernel='rbf', random_state=1, gamma=0.10, C=10.0)
 svm.fit(X_xor, y_xor)
 plot_decision_regions(X_xor, y_xor,
@@ -514,6 +519,7 @@ plt.tight_layout()
 # plt.savefig('images/03_14.png', dpi=300)
 plt.show()
 
+# RBFカーネルによるSVMのインスタンスを生成（２つのパラメータを変更）
 svm = SVC(kernel='rbf', random_state=1, gamma=0.2, C=1.0)
 svm.fit(X_train_std, y_train)
 
@@ -526,6 +532,7 @@ plt.tight_layout()
 # plt.savefig('images/03_15.png', dpi=300)
 plt.show()
 
+# RBFカーネルによるSVMのインスタンスを生成（γパラメータを変更）
 svm = SVC(kernel='rbf', random_state=1, gamma=100.0, C=1.0)
 svm.fit(X_train_std, y_train)
 
@@ -544,7 +551,7 @@ plt.show()
 
 # ## Maximizing information gain - getting the most bang for the buck
 
-
+# ジニ不純度の関数を定義
 def gini(p):
     return p * (1 - p) + (1 - p) * (1 - (1 - p))
 
