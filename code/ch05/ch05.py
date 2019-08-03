@@ -277,7 +277,7 @@ plt.show()
 
 
 
-
+# 主成分分析を指定して，PCAのインスタンスを生成
 pca = PCA()
 X_train_pca = pca.fit_transform(X_train_std)
 pca.explained_variance_ratio_
@@ -345,16 +345,18 @@ def plot_decision_regions(X, y, classifier, resolution=0.02):
 
 
 
+# 主成分分析を指定して，PCAのインスタンスを生成
 pca = PCA(n_components=2)
+# トレーニングデータとテストデータでPCAを実行
 X_train_pca = pca.fit_transform(X_train_std)
 X_test_pca = pca.transform(X_test_std)
 
+# ロジスティクス回帰のインスタンスを生成
 lr = LogisticRegression()
+# トレーニングデータでロジスティクス回帰を実行
 lr = lr.fit(X_train_pca, y_train)
 
-
-
-
+# 決定領域をプロット
 plot_decision_regions(X_train_pca, y_train, classifier=lr)
 plt.xlabel('PC 1')
 plt.ylabel('PC 2')
@@ -365,7 +367,7 @@ plt.show()
 
 
 
-
+# 決定領域をプロット
 plot_decision_regions(X_test_pca, y_test, classifier=lr)
 plt.xlabel('PC 1')
 plt.ylabel('PC 2')
@@ -379,6 +381,7 @@ plt.show()
 
 pca = PCA(n_components=None)
 X_train_pca = pca.fit_transform(X_train_std)
+# 分散説明率を計算
 pca.explained_variance_ratio_
 
 
