@@ -514,68 +514,91 @@ plt.show()
 
 
 class SBS():
+    """
+    (Sequential Backward Selection)を実行するクラス
+    """
     def __init__(self, estimator, k_features, scoring=accuracy_score,
                  test_size=0.25, random_state=1):
-        self.scoring = scoring
-        self.estimator = clone(estimator)
-        self.k_features = k_features
-        self.test_size = test_size
-        self.random_state = random_state
+        self.scoring = scoring  # 特長量を評価する指標
+        self.estimator = clone(estimator)  # 推定器
+        self.k_features = k_features  # 選択する特長量の個数
+        self.test_size = test_size  # テストデータの割合
+        self.random_state = random_state  # 乱数値を固定するrandom_state
 
     def fit(self, X, y):
-        
-        X_train, X_test, y_train, y_test =             train_test_split(X, y, test_size=self.test_size,
+        # トレーニングデータとテストデータに分割
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=self.test_size,
                              random_state=self.random_state)
 
+        # すべての特長量の個数，列インデックス
         dim = X_train.shape[1]
-        self.indices_ = tuple(range(dim))
+        self.indices_ = tuple(range(dim))  # 0～12
         self.subsets_ = [self.indices_]
+        # すべての特長量を用いてスコアを算出
         score = self._calc_score(X_train, y_train, 
                                  X_test, y_test, self.indices_)
+        # スコアを格納
         self.scores_ = [score]
-
+        # 指定した特長量の個数になるまで処理を反復
         while dim > self.k_features:
+            # 空のリストを作成（スコア，列インデックス）
             scores = []
             subsets = []
 
+            # 特長量の部分集合を表す列インデックスの組み合わせごとに処理を反復
             for p in combinations(self.indices_, r=dim - 1):
+                # スコアを算出して格納
                 score = self._calc_score(X_train, y_train, 
                                          X_test, y_test, p)
                 scores.append(score)
+                # 特長量の部分集合を表す列インデックスのリストを格納
                 subsets.append(p)
 
+            # 最良のスコアのインデックスを抽出
             best = np.argmax(scores)
+            # 最良のスコアとなる列インデックスを抽出して格納
             self.indices_ = subsets[best]
             self.subsets_.append(self.indices_)
+            # 特長量の個数を１つだけ減らして次のステップへ
             dim -= 1
 
+            # スコアを格納
             self.scores_.append(scores[best])
+
+        # 最後に格納したスコア
         self.k_score_ = self.scores_[-1]
 
         return self
 
     def transform(self, X):
+        # 抽出した特長量を返す
         return X[:, self.indices_]
 
     def _calc_score(self, X_train, y_train, X_test, y_test, indices):
+        # 指定された列番号indicesの特長量を抽出してモデルを適合
         self.estimator.fit(X_train[:, indices], y_train)
+        # テストデータを用いてクラスラベルを予測
         y_pred = self.estimator.predict(X_test[:, indices])
+        # 真のクラスラベルと予測値を用いてスコアを算出
         score = self.scoring(y_test, y_pred)
         return score
 
 
 
 
-
+# k近傍法分類器のインスタンスを生成（近傍点数=5）
 knn = KNeighborsClassifier(n_neighbors=5)
 
 # selecting features
+# 逐次後退選択のインスタンスを生成（特長量の個数が１になるまで特長量を選択）
 sbs = SBS(knn, k_features=1)
+# 逐次後退選択を実行
 sbs.fit(X_train_std, y_train)
 
 # plotting performance of feature subsets
+# 特長量の個数リスト(13, 12, ..., 1)
 k_feat = [len(k) for k in sbs.subsets_]
-
+# 横軸を特長量の個数，縦軸をスコアとした折れ線グラフのプロット
 plt.plot(k_feat, sbs.scores_, marker='o')
 plt.ylim([0.7, 1.02])
 plt.ylabel('Accuracy')
@@ -585,7 +608,7 @@ plt.tight_layout()
 # plt.savefig('images/04_08.png', dpi=300)
 plt.show()
 
-
+# 次元の呪いが減少している
 
 
 k3 = list(sbs.subsets_[10])
@@ -593,16 +616,20 @@ print(df_wine.columns[1:][k3])
 
 
 
-
+# 13個すべての特長量を用いてモデルを適合
 knn.fit(X_train_std, y_train)
+# トレーニングの正解率を出力
 print('Training accuracy:', knn.score(X_train_std, y_train))
+# テストの正解率を出力
 print('Test accuracy:', knn.score(X_test_std, y_test))
 
 
 
-
+# ３つの特長量を用いてモデルを適合
 knn.fit(X_train_std[:, k3], y_train)
+# トレーニングの正解率を出力
 print('Training accuracy:', knn.score(X_train_std[:, k3], y_train))
+# テストの正解率を出力
 print('Test accuracy:', knn.score(X_test_std[:, k3], y_test))
 
 
@@ -611,17 +638,19 @@ print('Test accuracy:', knn.score(X_test_std[:, k3], y_test))
 
 
 
-
+# Wineデータセットの特長量の名称
 feat_labels = df_wine.columns[1:]
-
+# ランダムフォレストオブジェクトの生成（決定木の個数=500）
 forest = RandomForestClassifier(n_estimators=500,
                                 random_state=1)
-
+# モデルを適合
 forest.fit(X_train, y_train)
+# 特長量の重要度を抽出
 importances = forest.feature_importances_
+# 重要度の降順で特長量のインデックスを抽出
+indices = np.argsort(importances)[::-1]  # valueをindexにして表示
 
-indices = np.argsort(importances)[::-1]
-
+# 重要度の降順で特長量の名称，重要度を表示
 for f in range(X_train.shape[1]):
     print("%2d) %-*s %f" % (f + 1, 30, 
                             feat_labels[indices[f]], 
@@ -642,8 +671,9 @@ plt.show()
 
 
 
-
+# 特長選択オブジェクトを生成（重要度の閾値を0.1に設定）
 sfm = SelectFromModel(forest, threshold=0.1, prefit=True)
+# 特長量を抽出
 X_selected = sfm.transform(X_train)
 print('Number of features that meet this threshold criterion:', 
       X_selected.shape[1])

@@ -254,7 +254,7 @@ X_train_std[0].dot(w)
 X_train_pca = X_train_std.dot(w)
 colors = ['r', 'b', 'g']
 markers = ['s', 'x', 'o']
-
+# 「クラスラベル」「点の色」「点の種類」の組み合わせからなるリストを生成してプロット
 for l, c, m in zip(np.unique(y_train), colors, markers):
     plt.scatter(X_train_pca[y_train == l, 0], 
                 X_train_pca[y_train == l, 1], 
@@ -279,6 +279,8 @@ plt.show()
 
 # 主成分分析を指定して，PCAのインスタンスを生成
 pca = PCA()
+
+# トレーニングデータとテストデータでPCAを実行
 X_train_pca = pca.fit_transform(X_train_std)
 pca.explained_variance_ratio_
 
@@ -321,15 +323,20 @@ def plot_decision_regions(X, y, classifier, resolution=0.02):
     # plot the decision surface
     x1_min, x1_max = X[:, 0].min() - 1, X[:, 0].max() + 1
     x2_min, x2_max = X[:, 1].min() - 1, X[:, 1].max() + 1
+    # グリッドポイントの生成
     xx1, xx2 = np.meshgrid(np.arange(x1_min, x1_max, resolution),
                            np.arange(x2_min, x2_max, resolution))
+    # 各特長量を１次元配列に変換して予測を実行
     Z = classifier.predict(np.array([xx1.ravel(), xx2.ravel()]).T)
+    # 予測結果を元のグリッドポイントのデータサイズに変換
     Z = Z.reshape(xx1.shape)
+    # グリッドポイントの等高線のプロット
     plt.contourf(xx1, xx2, Z, alpha=0.4, cmap=cmap)
     plt.xlim(xx1.min(), xx1.max())
     plt.ylim(xx2.min(), xx2.max())
 
     # plot class samples
+    # クラスごとにサンプルをプロット
     for idx, cl in enumerate(np.unique(y)):
         plt.scatter(x=X[y == cl, 0], 
                     y=X[y == cl, 1],
@@ -415,7 +422,7 @@ for label in range(1, 4):
 
 
 
-d = 13 # number of features
+d = 13 # number of features，特長量の個数
 S_W = np.zeros((d, d))
 for label, mv in zip(range(1, 4), mean_vecs):
     class_scatter = np.zeros((d, d))  # scatter matrix for each class
