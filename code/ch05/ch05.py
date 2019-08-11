@@ -462,6 +462,7 @@ d = 13  # number of features
 S_B = np.zeros((d, d))
 for i, mean_vec in enumerate(mean_vecs):
     n = X_train[y_train == i + 1, :].shape[0]
+    # 列ベクトルを作成
     mean_vec = mean_vec.reshape(d, 1)  # make column vector
     mean_overall = mean_overall.reshape(d, 1)  # make column vector
     S_B += n * (mean_vec - mean_overall).dot((mean_vec - mean_overall).T)
@@ -475,7 +476,7 @@ print('Between-class scatter matrix: %sx%s' % (S_B.shape[0], S_B.shape[1]))
 # Solve the generalized eigenvalue problem for the matrix $S_W^{-1}S_B$:
 
 
-
+# inv関数で逆行列，dot関数で行列積，eig関数で固有値を計算
 eigen_vals, eigen_vecs = np.linalg.eig(np.linalg.inv(S_W).dot(S_B))
 
 
@@ -505,8 +506,9 @@ for eigen_val in eigen_pairs:
 
 
 
-
+# 固有値の実数部の総和を求める
 tot = sum(eigen_vals.real)
+# 分散説明率とその累積和を計算
 discr = [(i / tot) for i in sorted(eigen_vals.real, reverse=True)]
 cum_discr = np.cumsum(discr)
 
@@ -524,7 +526,7 @@ plt.show()
 
 
 
-
+# 2つの固有ベクトルから変換行列を作成
 w = np.hstack((eigen_pairs[0][1][:, np.newaxis].real,
               eigen_pairs[1][1][:, np.newaxis].real))
 print('Matrix W:\n', w)
@@ -534,7 +536,7 @@ print('Matrix W:\n', w)
 # ## Projecting samples onto the new feature space
 
 
-
+# 標準化したトレーニングデータに変換行列をかける
 X_train_lda = X_train_std.dot(w)
 colors = ['r', 'b', 'g']
 markers = ['s', 'x', 'o']
@@ -555,9 +557,9 @@ plt.show()
 
 # ## LDA via scikit-learn
 
+# scikit-learnによる線形判別分析
 
-
-
+# 次元数を指定して，LDAのインスタンスを生成
 lda = LDA(n_components=2)
 X_train_lda = lda.fit_transform(X_train_std, y_train)
 
