@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PyTorch-Introduction_to_development" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../numpy_collection" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../pytorch_collection" vcs="Git" />
   </component>
