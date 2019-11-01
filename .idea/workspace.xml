@@ -8,28 +8,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/ode_demo.py">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="-1918">
-                    <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-                    <folding>
-                      <element signature="e#0#9#0" expanded="true" />
-                    </folding>
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-182575875">
       <usages-collector id="statistics.lifecycle.project">
@@ -38,11 +16,12 @@
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.76" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,30 +29,30 @@
           <entry key="ipynb" value="1" />
           <entry key="logs" value="1" />
           <entry key="md" value="1" />
-          <entry key="png" value="131" />
-          <entry key="py" value="278" />
+          <entry key="png" value="241" />
+          <entry key="py" value="288" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
-          <entry key="Image" value="131" />
+          <entry key="Image" value="241" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="278" />
+          <entry key="Python" value="288" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="10156" />
+          <entry key="py" value="10346" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="10156" />
+          <entry key="Python" value="10346" />
         </counts>
       </usages-collector>
     </session>
@@ -81,19 +60,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6341">
-              <caret line="379" column="67" selection-start-line="379" selection-start-column="67" selection-end-line="379" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5071">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="5321">
+              <caret line="319" column="26" selection-start-line="319" selection-start-column="26" selection-end-line="319" selection-end-column="26" />
               <folding>
                 <element signature="e#35#44#0" expanded="true" />
               </folding>
@@ -101,35 +71,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/Neural_ODE_Basic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="189" column="21" selection-start-line="189" selection-start-column="21" selection-end-line="189" selection-end-column="21" />
-              <folding>
-                <element signature="e#111#120#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="3570">
+              <caret line="219" column="70" selection-start-line="219" selection-start-column="70" selection-end-line="219" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/Neural_ODE_as_VAE.py">
+        <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/odeint.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="854">
-              <caret line="88" selection-start-line="88" selection-end-line="88" />
+            <state relative-caret-position="969">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
               <folding>
-                <element signature="e#272#281#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode_ajoint.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/ode_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="319" column="28" selection-start-line="319" selection-start-column="28" selection-end-line="319" selection-end-column="28" />
+            <state relative-caret-position="680">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,8 +107,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adjoint.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1717">
-              <caret line="104" column="4" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
+            <state>
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -147,22 +116,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/odeint.py">
+        <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/dopri5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="1394">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#93#105#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_001-010/ABC004/D.py">
+        <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/rk_common.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            <state relative-caret-position="1054">
+              <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/solvers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/misc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3009">
+              <caret line="178" column="54" selection-start-line="178" selection-start-column="54" selection-end-line="178" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -179,15 +172,23 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>forward</find>
-      <find>permute</find>
       <find>log_normal_pdf</find>
       <find>orig_ts</find>
-      <find>integrate</find>
       <find>_is_iterable</find>
-      <find>func</find>
       <find>_check_inputs</find>
       <find>samp_ts</find>
       <find>ax_traj</find>
+      <find>odeint</find>
+      <find>true_y</find>
+      <find>_base_nontuple_func_</find>
+      <find>integrate</find>
+      <find>advance</find>
+      <find>t1</find>
+      <find>func</find>
+      <find>before</find>
+      <find>_Ru</find>
+      <find>rk4_step_func</find>
+      <find>permute</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -197,10 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC049/A.py" />
-        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_041-050/ARC046/A.py" />
-        <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_121-130/ABC130/D.py" />
-        <option value="$PROJECT_DIR$/code/ch04/ch04.py" />
         <option value="$PROJECT_DIR$/code/ch05/ch05.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_131-140/ABC131/A.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_131-140/ABC131/B.py" />
@@ -245,13 +242,17 @@
         <option value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode2.py" />
         <option value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode.py" />
         <option value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode_ajoint.py" />
-        <option value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode3.py" />
         <option value="$PROJECT_DIR$/../Neural-ODE-Experiments-master/Neural_ODE_as_VAE.py" />
+        <option value="$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/solvers.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_011-020/ABC011/C.py" />
+        <option value="$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/dopri5.py" />
+        <option value="$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/misc.py" />
         <option value="$PROJECT_DIR$/../Neural-ODE-Experiments-master/Neural_ODE_Basic.py" />
+        <option value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode3.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="121" />
     <option name="y" value="217" />
     <option name="width" value="1400" />
@@ -265,15 +266,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Neural-ODE-Experiments-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
               <item name="Neural_Ordinary_Differential_Equations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -285,12 +283,18 @@
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
               <item name="Neural_Ordinary_Differential_Equations" type="462c0819:PsiDirectoryNode" />
               <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="png" type="462c0819:PsiDirectoryNode" />
+              <item name="again" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
               <item name="Neural_Ordinary_Differential_Equations" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="torchdiffeq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Neural_Ordinary_Differential_Equations" type="462c0819:PsiDirectoryNode" />
+              <item name="torchdiffeq" type="462c0819:PsiDirectoryNode" />
+              <item name="_impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
@@ -313,7 +317,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,7 +347,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Neural_ODE_Basic">
+  <component name="RunManager" selected="Python.latent_ode3">
+    <configuration name="C" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AtCoder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_011-020/ABC011" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_011-020/ABC011/C.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Neural_ODE_Basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Neural-ODE-Experiments-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -379,27 +403,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="latent_ode2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Neural_Ordinary_Differential_Equations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\nomo\Documents\GitHub\Neural_Ordinary_Differential_Equations\examples\latent_ode3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -452,18 +455,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.latent_ode" />
-      <item itemvalue="Python.latent_ode2" />
       <item itemvalue="Python.latent_ode3" />
       <item itemvalue="Python.latent_ode_ajoint" />
       <item itemvalue="Python.Neural_ODE_Basic" />
+      <item itemvalue="Python.C" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Neural_ODE_Basic" />
         <item itemvalue="Python.latent_ode3" />
+        <item itemvalue="Python.Neural_ODE_Basic" />
+        <item itemvalue="Python.C" />
         <item itemvalue="Python.latent_ode_ajoint" />
         <item itemvalue="Python.latent_ode" />
-        <item itemvalue="Python.latent_ode2" />
       </list>
     </recent_temporary>
   </component>
@@ -500,9 +503,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16399573" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16350211" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
@@ -517,7 +521,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Run" order="3" visible="true" weight="0.31036323" />
+      <window_info active="true" anchor="right" id="Run" order="3" visible="true" weight="0.31036323" />
       <window_info anchor="right" id="Debug" order="4" weight="0.30608973" />
     </layout>
     <layout-to-restore>
@@ -615,17 +619,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/ode_demo.py</url>
-          <line>123</line>
+          <line>124</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/ode_demo.py</url>
-          <line>44</line>
+          <line>45</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/ode_demo.py</url>
-          <line>158</line>
+          <line>159</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -638,205 +642,176 @@
           <line>95</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/Neural_ODE_Basic.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/Neural_ODE_Basic.py</url>
+          <line>188</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/odeint.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/misc.py</url>
+          <line>173</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/solvers.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/solvers.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/dopri5.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/dopri5.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/solvers.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_011-020/ABC011/C.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_011-020/ABC011/C.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_011-020/ABC011/C.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/dopri5.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/dopri5.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/dopri5.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/rk_common.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/dopri5.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode3.py</url>
+          <line>290</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis400_6758.078051146517.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis500_2916.111559658368.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis600_1440.2473526747362.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis700_885.4850825001065.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis800_665.1115825343924.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis900_562.1137338122406.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis1000_504.85381617597994.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis1100_473.8493301010122.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis1200_470.63158015038846.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis1300_449.1464925182708.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis1400_436.1169806298231.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis1500_420.50926600058744.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis1600_439.8596782388977.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis1700_389.7373946812841.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis1800_395.7411700078142.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis1900_386.08246371794337.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint100_47303.28989173281.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint200_22463.48755232966.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint300_9761.023265477133.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint400_4401.812804011301.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint500_2184.36859349425.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint600_1276.3041207552737.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint700_897.6309046444085.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint800_709.3060081275974.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint900_602.9442281702464.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint1000_538.4402106102325.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint1100_504.2230380956223.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint1200_471.25041299028146.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint1300_479.04277054028177.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/ajoint1400_433.8714245072497.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/ground_truth.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/400nsample/vis2000_383.86547312201435.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/3pi-pi/vis100_50100.10702455919.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/3pi-pi/vis200_26657.8876750633.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/3pi-pi/vis300_13135.140814751403.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode.py">
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis800_4044.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1000_3492.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1200_2779.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1400_2232.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1600_1798.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1400_2453.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1200_2436.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1000_4109.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis800_12299.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis600_22469.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis400_111888.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis200_12055.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2_53284.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1600_2218.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1800_2020.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2000_2551.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2200_2076.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2400_2023.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2600_1712.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis3000_5775.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis3200_6644.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis3400_2861.png" />
+    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_011-020/ABC011/C.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6341">
-          <caret line="379" column="67" selection-start-line="379" selection-start-column="67" selection-end-line="379" selection-end-column="67" />
+        <state relative-caret-position="255">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adjoint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="104" column="4" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/odeint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_001-010/ABC004/D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/3pi-pi/vis400_5791.4725841305635.png">
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2800_1613.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis3600_1754.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1000_297.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1200_268.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis200_16417.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2400_206.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis800_1219.png" />
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis5500_154.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/2pi-pi/vis10_61405.86031826242.png">
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis5000_185.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/Neural_ODE_Basic.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/Neural_ODE_as_VAE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="854">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
-          <folding>
-            <element signature="e#272#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/ode_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1918">
-          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/NNET_MORE/phase0.png">
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis4500_412.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/NNET_MORE/ts0.png">
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis4000_197.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/2pi-pi/vis500_17736.39494385214.png">
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis3500_187.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/2pi-pi/vis1000_17418.776447967306.png">
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis3000_204.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode_ajoint.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="319" column="28" selection-start-line="319" selection-start-column="28" selection-end-line="319" selection-end-column="28" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2500_233.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2000_226.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1500_401.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1000_462.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis500_2380.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/so-so-2600_191.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5071">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="5321">
+          <caret line="319" column="26" selection-start-line="319" selection-start-column="26" selection-end-line="319" selection-end-column="26" />
           <folding>
             <element signature="e#35#44#0" expanded="true" />
           </folding>
@@ -845,10 +820,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/Neural_ODE_Basic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="189" column="21" selection-start-line="189" selection-start-column="21" selection-end-line="189" selection-end-column="21" />
+        <state relative-caret-position="3570">
+          <caret line="219" column="70" selection-start-line="219" selection-start-column="70" selection-end-line="219" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/odeint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
-            <element signature="e#111#120#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/torchdiffeq/_impl/adjoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/dopri5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="e#93#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/rk_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/solvers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/misc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3009">
+          <caret line="178" column="54" selection-start-line="178" selection-start-column="54" selection-end-line="178" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/ode_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
