@@ -10,6 +10,6 @@
     <orderEntry type="module" module-name="numpy_collection" />
     <orderEntry type="module" module-name="pytorch_collection" />
     <orderEntry type="module" module-name="PyTorch-Introduction_to_development" />
-    <orderEntry type="module" module-name="Neural-ODE-Experiments-master" />
+    <orderEntry type="module" module-name="NODE-DDMD" />
   </component>
 </module>

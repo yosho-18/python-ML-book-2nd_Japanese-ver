@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../AtCoder/.idea/AtCoder.iml" filepath="$PROJECT_DIR$/../AtCoder/.idea/AtCoder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Neural-ODE-Experiments-master/.idea/Neural-ODE-Experiments-master.iml" filepath="$PROJECT_DIR$/../Neural-ODE-Experiments-master/.idea/Neural-ODE-Experiments-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NODE-DDMD/.idea/NODE-DDMD.iml" filepath="$PROJECT_DIR$/../NODE-DDMD/.idea/NODE-DDMD.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/.idea/Neural_Ordinary_Differential_Equations.iml" filepath="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/.idea/Neural_Ordinary_Differential_Equations.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PyTorch-Introduction_to_development/.idea/PyTorch-Introduction_to_development.iml" filepath="$PROJECT_DIR$/../PyTorch-Introduction_to_development/.idea/PyTorch-Introduction_to_development.iml" />
       <module fileurl="file://$PROJECT_DIR$/../numpy_collection/.idea/numpy_collection.iml" filepath="$PROJECT_DIR$/../numpy_collection/.idea/numpy_collection.iml" />
