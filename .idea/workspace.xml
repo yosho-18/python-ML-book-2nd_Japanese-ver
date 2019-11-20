@@ -31,7 +31,7 @@
           <entry key="logs" value="1" />
           <entry key="md" value="1" />
           <entry key="png" value="242" />
-          <entry key="py" value="292" />
+          <entry key="py" value="293" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -40,7 +40,7 @@
           <entry key="Image" value="242" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="292" />
+          <entry key="Python" value="293" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -63,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="171" column="16" lean-forward="true" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
+            <state relative-caret-position="2346">
+              <caret line="138" column="29" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -78,6 +78,17 @@
             <state>
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NODE-DDMD/HybridKoopman.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -647,7 +658,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1400_2453.png" />
     <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1200_2436.png" />
     <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1000_4109.png" />
     <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis800_12299.png" />
@@ -827,10 +837,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/HybridKoopman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="171" column="16" lean-forward="true" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
+        <state relative-caret-position="2346">
+          <caret line="138" column="29" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
