@@ -27,11 +27,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="csv" value="3" />
           <entry key="ipynb" value="1" />
           <entry key="logs" value="1" />
           <entry key="md" value="1" />
           <entry key="png" value="242" />
-          <entry key="py" value="293" />
+          <entry key="py" value="305" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -39,21 +40,21 @@
           <entry key="IPNB" value="1" />
           <entry key="Image" value="242" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="293" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="305" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="10381" />
+          <entry key="py" value="11002" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="10381" />
+          <entry key="Python" value="11002" />
         </counts>
       </usages-collector>
     </session>
@@ -63,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+            <state relative-caret-position="425">
+              <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -73,22 +74,62 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../NODE-DDMD/NODE-EDMD-DL.py">
+        <entry file="file://$PROJECT_DIR$/../pytorch_collection/torch2.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NODE-DDMD/hinan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="319">
+              <caret line="110" column="6" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#902#911#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../NODE-DDMD/HybridKoopman.py">
+        <entry file="file://$PROJECT_DIR$/../pytorch_collection/torch1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PyTorch-Introduction_to_development/Chapter2/c2-4-3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="760">
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/E_recon_50.csv">
+          <provider selected="true" editor-type-id="LargeFileEditor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator_train_x.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="641">
+              <caret line="56" column="75" selection-start-line="56" selection-start-column="75" selection-end-line="56" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator_ODE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,9 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_131-140/ABC131/A.py" />
-        <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_131-140/ABC131/B.py" />
-        <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_131-140/ABC131/C.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_131-140/ABC131/D.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_131-140/ABC131/E.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_131-140/ABC131/F.py" />
@@ -182,11 +220,14 @@
         <option value="$PROJECT_DIR$/../Neural-ODE-Experiments-master/torchdiffeq/torchdiffeq/_impl/misc.py" />
         <option value="$PROJECT_DIR$/../Neural-ODE-Experiments-master/Neural_ODE_Basic.py" />
         <option value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode3.py" />
+        <option value="$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator.py" />
+        <option value="$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator_ODE.py" />
+        <option value="$PROJECT_DIR$/../NODE-DDMD/hinan.py" />
         <option value="$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="490" />
     <option name="y" value="-25" />
     <option name="width" value="980" />
@@ -206,6 +247,24 @@
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
               <item name="NODE-DDMD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NODE-DDMD" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyTorch-Introduction_to_development" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyTorch-Introduction_to_development" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytorch_collection" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,19 +302,40 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.MLP-EDMD-DL">
-    <configuration name="C" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AtCoder" />
+    <configuration name="Duffing_oscillator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NODE-DDMD" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_011-020/ABC011" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NODE-DDMD/data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_011-020/ABC011/C.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Duffing_oscillator_ODE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NODE-DDMD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NODE-DDMD/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator_ODE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,19 +386,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="latent_ode" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Neural_Ordinary_Differential_Equations" />
+    <configuration name="hinan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NODE-DDMD" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NODE-DDMD" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NODE-DDMD/hinan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -340,27 +420,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="latent_ode_ajoint" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Neural_Ordinary_Differential_Equations" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/latent_ode_ajoint.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -399,19 +458,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.latent_ode" />
       <item itemvalue="Python.latent_ode3" />
-      <item itemvalue="Python.latent_ode_ajoint" />
-      <item itemvalue="Python.C" />
       <item itemvalue="Python.MLP-EDMD-DL" />
+      <item itemvalue="Python.Duffing_oscillator" />
+      <item itemvalue="Python.Duffing_oscillator_ODE" />
+      <item itemvalue="Python.hinan" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.MLP-EDMD-DL" />
+        <item itemvalue="Python.hinan" />
+        <item itemvalue="Python.Duffing_oscillator" />
+        <item itemvalue="Python.Duffing_oscillator_ODE" />
         <item itemvalue="Python.latent_ode3" />
-        <item itemvalue="Python.C" />
-        <item itemvalue="Python.latent_ode_ajoint" />
-        <item itemvalue="Python.latent_ode" />
       </list>
     </recent_temporary>
   </component>
@@ -677,21 +736,15 @@
           <line>290</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py</url>
+          <line>194</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1200_2436.png" />
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1000_4109.png" />
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis800_12299.png" />
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis600_22469.png" />
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis400_111888.png" />
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis200_12055.png" />
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2_53284.png" />
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1600_2218.png" />
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1800_2020.png" />
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2000_2551.png" />
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2200_2076.png" />
     <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2400_2023.png" />
     <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2600_1712.png" />
     <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis3000_5775.png" />
@@ -869,10 +922,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator_train_x.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="56" column="75" selection-start-line="56" selection-start-column="75" selection-end-line="56" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator_ODE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/E_recon_50.csv">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-1275" />
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyTorch-Introduction_to_development/Chapter2/c2-3-2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PyTorch-Introduction_to_development/Chapter2/c2-4-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/free.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-362">
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pytorch_collection/torch1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pytorch_collection/torch2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/hinan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="110" column="6" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
+          <folding>
+            <element signature="e#902#911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="42" column="47" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+        <state relative-caret-position="425">
+          <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
