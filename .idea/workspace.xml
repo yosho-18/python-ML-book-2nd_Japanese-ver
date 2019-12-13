@@ -29,19 +29,20 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="7" />
+          <entry key="eps" value="1" />
           <entry key="ipynb" value="1" />
           <entry key="logs" value="1" />
           <entry key="md" value="1" />
-          <entry key="png" value="242" />
+          <entry key="png" value="243" />
           <entry key="py" value="312" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
-          <entry key="Image" value="242" />
+          <entry key="Image" value="243" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="9" />
           <entry key="Python" value="312" />
         </counts>
       </usages-collector>
@@ -62,10 +63,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="-272">
               <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -74,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_141-150/ABC147/C.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+            <state relative-caret-position="170">
+              <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -90,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/../AtCoder/airoiro/iro1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -99,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/../AtCoder/airoiro/iro3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
             </state>
           </provider>
         </entry>
@@ -144,18 +145,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator_ODE.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="678">
-              <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -189,7 +178,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../NODE-DDMD" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../AtCoder" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -268,23 +257,18 @@
           <expand>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="NODE-DDMD" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="airoiro" type="462c0819:PsiDirectoryNode" />
+              <item name="NODE-DDMD" type="462c0819:PsiDirectoryNode" />
+              <item name="1e-7_100_2e-4_10000" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="AtC_Beg_Con_141-150" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
-              <item name="AtC_Beg_Con_141-150" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC147" type="462c0819:PsiDirectoryNode" />
+              <item name="NODE-DDMD" type="462c0819:PsiDirectoryNode" />
+              <item name="1e-7_100_2e-4_10000" type="462c0819:PsiDirectoryNode" />
+              <item name="eps" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
@@ -310,15 +294,15 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\nomo\Documents\GitHub\Neural_Ordinary_Differential_Equations\examples" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nomo\Documents\GitHub\NODE-DDMD\1e-7_100_2e-4_10000" />
       <recent name="C:\Users\nomo\Documents\GitHub\Neural_Ordinary_Differential_Equations\examples" />
       <recent name="C:\Users\nomo\Documents\GitHub\AtCoder\Company_Con_past" />
       <recent name="C:\Users\nomo\Documents\GitHub\AtCoder" />
       <recent name="C:\Users\nomo\Documents\GitHub\AtCoder\AtC_Reg_Con_041-050" />
-      <recent name="C:\Users\nomo\Documents\GitHub\AtCoder\AtC_Reg_Con_051-060" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nomo\Documents\GitHub\Neural_Ordinary_Differential_Equations\examples" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -539,10 +523,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16613248" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16613248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
@@ -557,7 +541,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="3" visible="true" weight="0.31036323" />
+      <window_info anchor="right" id="Run" order="3" visible="true" weight="0.31036323" />
       <window_info anchor="right" id="Debug" order="4" weight="0.30608973" />
     </layout>
   </component>
@@ -778,8 +762,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1000_297.png" />
-    <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis1200_268.png" />
     <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis200_16417.png" />
     <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis2400_206.png" />
     <entry file="file://$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations/examples/again/vis800_1219.png" />
@@ -906,7 +888,13 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../NODE-DDMD/NODE-EDMD-DL.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../NODE-DDMD/HybridKoopman.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1007,33 +995,39 @@
     <entry file="file://$PROJECT_DIR$/../AtCoder/airoiro/iro1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../AtCoder/airoiro/iro3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/png/x1_traj_11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/1e-7_100_2e-4_10000/eps/train.eps">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_141-150/ABC147/C.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="27" lean-forward="true" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+        <state relative-caret-position="170">
+          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
