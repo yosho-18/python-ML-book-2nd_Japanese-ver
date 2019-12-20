@@ -11,5 +11,6 @@
     <orderEntry type="module" module-name="pytorch_collection" />
     <orderEntry type="module" module-name="PyTorch-Introduction_to_development" />
     <orderEntry type="module" module-name="NODE-DDMD" />
+    <orderEntry type="module" module-name="memo" />
   </component>
 </module>
