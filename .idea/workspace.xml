@@ -12,7 +12,7 @@
     <session id="-182575875">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="2" />
@@ -36,50 +36,53 @@
           <entry key="ipynb" value="1" />
           <entry key="logs" value="1" />
           <entry key="md" value="1" />
-          <entry key="png" value="425" />
-          <entry key="py" value="372" />
+          <entry key="png" value="426" />
+          <entry key="py" value="374" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
-          <entry key="Image" value="425" />
+          <entry key="Image" value="426" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="34" />
-          <entry key="Python" value="372" />
+          <entry key="Python" value="374" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="15330" />
+          <entry key="py" value="15384" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="15330" />
+          <entry key="Python" value="15384" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../NODE-DDMD/hinan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-595">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="272">
+              <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1649">
-              <caret line="354" column="55" selection-start-line="354" selection-start-column="55" selection-end-line="354" selection-end-column="55" />
+            <state relative-caret-position="221">
+              <caret line="372" column="58" lean-forward="true" selection-start-line="372" selection-start-column="58" selection-end-line="372" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -124,8 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_031-040/ARC031/B.py" />
-        <option value="$PROJECT_DIR$/../AtCoder/airoiro/a_iehn.py" />
         <option value="$PROJECT_DIR$/../AtCoder/aaLibrary2/Prime.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_031-040/ARC032/A.py" />
         <option value="$PROJECT_DIR$/../AtCoder/aaLibrary1/Umion_Find2.py" />
@@ -175,10 +176,12 @@
         <option value="$PROJECT_DIR$/../NODE-DDMD/NODE_discrete-spectrum_2/E_eigfunc" />
         <option value="$PROJECT_DIR$/../NODE-DDMD/MLP_discrete-spectrum_2/E_eigfunc" />
         <option value="$PROJECT_DIR$/../NODE-DDMD/hinan.py" />
+        <option value="$USER_HOME$/Desktop/DMD_using_NODE/EDMD.py" />
+        <option value="$USER_HOME$/Desktop/DMD_using_NODE/MLP-EDMD-DL.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="490" />
     <option name="y" value="-25" />
     <option name="width" value="980" />
@@ -197,20 +200,6 @@
           <expand>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NODE-DDMD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NODE-DDMD" type="462c0819:PsiDirectoryNode" />
-              <item name="MLP_discrete-spectrum_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NODE-DDMD" type="462c0819:PsiDirectoryNode" />
-              <item name="NODE_discrete-spectrum_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
               <item name="pytorch_collection" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -221,7 +210,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../memo" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/DMD_using_NODE" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -249,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.hinan">
+  <component name="RunManager">
     <configuration name="Duffing_oscillator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="NODE-DDMD" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,19 +260,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EDMD" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NODE-DDMD" />
+    <configuration name="MLP-EDMD-DL (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DMD_using_NODE" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NODE-DDMD" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/DMD_using_NODE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NODE-DDMD/EDMD.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/DMD_using_NODE/MLP-EDMD-DL.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,27 +315,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="free" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NODE-DDMD" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NODE-DDMD" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NODE-DDMD/free.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -406,19 +374,17 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.EDMD" />
       <item itemvalue="Python.Duffing_oscillator" />
       <item itemvalue="Python.MLP-EDMD-DL" />
-      <item itemvalue="Python.free" />
       <item itemvalue="Python.hinan" />
+      <item itemvalue="Python.MLP-EDMD-DL (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MLP-EDMD-DL (1)" />
         <item itemvalue="Python.hinan" />
         <item itemvalue="Python.MLP-EDMD-DL" />
         <item itemvalue="Python.Duffing_oscillator" />
-        <item itemvalue="Python.EDMD" />
-        <item itemvalue="Python.free" />
       </list>
     </recent_temporary>
   </component>
@@ -455,10 +421,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15598291" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15598291" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
@@ -473,7 +439,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="3" visible="true" weight="0.30341882" />
+      <window_info anchor="right" id="Run" order="3" weight="0.30341882" />
       <window_info anchor="right" id="Debug" order="4" weight="0.46207264" />
     </layout>
   </component>
@@ -705,28 +671,15 @@
           <line>168</line>
           <option name="timeStamp" value="109" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/DMD_using_NODE/EDMD.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/Discrete_Linear_ODE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/Discrete_Linear_E_recon_50.csv">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="-1836" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/eps/eigenvalue.eps">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../NODE-DDMD/EDMD_discrete-spectrum_2/png/eigenvalue.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -872,13 +825,6 @@
     <entry file="file://$PROJECT_DIR$/../NODE-DDMD/MLP_discrete-spectrum_2/png/x2_traj_10.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="354" column="55" selection-start-line="354" selection-start-column="55" selection-end-line="354" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../NODE-DDMD/NODE_discrete-spectrum_2/E_eigfunc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -907,10 +853,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/DMD_using_NODE/EDMD_png/x1_traj_01.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/DMD_using_NODE/MLP-EDMD-DL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/DMD_using_NODE/EDMD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="162" column="67" selection-start-line="162" selection-start-column="67" selection-end-line="162" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../NODE-DDMD/hinan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="272">
+          <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="372" column="58" lean-forward="true" selection-start-line="372" selection-start-column="58" selection-end-line="372" selection-end-column="58" />
         </state>
       </provider>
     </entry>
