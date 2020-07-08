@@ -4,8 +4,10 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$USER_HOME$/Desktop/DMD_using_NODE" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../NODE-DDMD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NODE-PF" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Neural_Ordinary_Differential_Equations" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../PyTorch-Introduction_to_development" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../UT_DS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../memo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../numpy_collection" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../pytorch_collection" vcs="Git" />

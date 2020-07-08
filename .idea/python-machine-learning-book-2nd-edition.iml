@@ -12,5 +12,7 @@
     <orderEntry type="module" module-name="PyTorch-Introduction_to_development" />
     <orderEntry type="module" module-name="NODE-DDMD" />
     <orderEntry type="module" module-name="memo" />
+    <orderEntry type="module" module-name="NODE-PF" />
+    <orderEntry type="module" module-name="UT_DS" />
   </component>
 </module>
