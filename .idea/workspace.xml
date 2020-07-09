@@ -37,8 +37,9 @@
           <entry key="ipynb" value="1" />
           <entry key="logs" value="1" />
           <entry key="md" value="1" />
+          <entry key="mondai" value="1" />
           <entry key="png" value="426" />
-          <entry key="py" value="381" />
+          <entry key="py" value="386" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -46,28 +47,28 @@
           <entry key="IPNB" value="1" />
           <entry key="Image" value="426" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="34" />
-          <entry key="Python" value="381" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Python" value="386" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="16174" />
+          <entry key="py" value="16586" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="16174" />
+          <entry key="Python" value="16586" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../NODE-DDMD/hinan.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -93,13 +94,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../NODE-PF/EDMD.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-4221">
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AtCoder/aaLibrary1/Umion_Find2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -139,15 +149,11 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../NODE-PF" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../NODE-DDMD" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../AtCoder/aaLibrary1/Umion_Find2.py" />
-        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_031-040/ARC032/B.py" />
-        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_021-030/ARC030/A.py" />
-        <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_021-030/ARC030/B.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_021-030/ARC029/A.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_021-030/ARC027/A.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Reg_Con_021-030/ARC027/B.py" />
@@ -190,15 +196,19 @@
         <option value="$PROJECT_DIR$/../NODE-DDMD/NODE_discrete-spectrum_2/E_eigfunc.py" />
         <option value="$PROJECT_DIR$/../NODE-DDMD/NODE_discrete-spectrum_2/E_eigfunc" />
         <option value="$PROJECT_DIR$/../NODE-DDMD/MLP_discrete-spectrum_2/E_eigfunc" />
-        <option value="$PROJECT_DIR$/../NODE-DDMD/hinan.py" />
         <option value="$USER_HOME$/Desktop/DMD_using_NODE/EDMD.py" />
         <option value="$USER_HOME$/Desktop/DMD_using_NODE/MLP-EDMD-DL.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_151-160/ABC152/A.py" />
         <option value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_151-160/ABC152/D.py" />
+        <option value="$PROJECT_DIR$/../AtCoder/aaLibrary1/Umion_Find2.py" />
+        <option value="$PROJECT_DIR$/../Shukatsu_IT_test/MonotaRO/Problem_2.py" />
+        <option value="$PROJECT_DIR$/../Shukatsu_IT_test/Yahoo/2020/Problem_3.py" />
+        <option value="$PROJECT_DIR$/../Shukatsu_IT_test/MonotaRO/Problem_1.py" />
+        <option value="$PROJECT_DIR$/../NODE-DDMD/hinan.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="490" />
     <option name="y" value="-25" />
     <option name="width" value="980" />
@@ -217,7 +227,52 @@
           <expand>
             <path>
               <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="aaLibrary1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCoder" type="462c0819:PsiDirectoryNode" />
+              <item name="aaLibrary3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
               <item name="NODE-PF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shukatsu_IT_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shukatsu_IT_test" type="462c0819:PsiDirectoryNode" />
+              <item name="MonotaRO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shukatsu_IT_test" type="462c0819:PsiDirectoryNode" />
+              <item name="RECRUIT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shukatsu_IT_test" type="462c0819:PsiDirectoryNode" />
+              <item name="RECRUIT" type="462c0819:PsiDirectoryNode" />
+              <item name="2019SummerIntern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shukatsu_IT_test" type="462c0819:PsiDirectoryNode" />
+              <item name="Yahoo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-ML-book-2nd_Japanese-ver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shukatsu_IT_test" type="462c0819:PsiDirectoryNode" />
+              <item name="Yahoo" type="462c0819:PsiDirectoryNode" />
+              <item name="2020" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,20 +282,20 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UT_DS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shukatsu_IT_test" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nomo\Documents\GitHub\NODE-DDMD" />
+      <recent name="C:\Users\nomo\Documents\GitHub\Neural_Ordinary_Differential_Equations\examples" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nomo\Documents\GitHub\Shukatsu_IT_test\MonotaRO" />
       <recent name="C:\Users\nomo\Documents\GitHub\AtCoder" />
       <recent name="C:\Users\nomo\Documents\GitHub\NODE-DDMD\MLP_discrete-spectrum_2" />
       <recent name="C:\Users\nomo\Documents\GitHub\NODE-DDMD" />
       <recent name="C:\Users\nomo\Documents\GitHub\NODE-DDMD\EDMD_discrete-spectrum_2" />
-      <recent name="C:\Users\nomo\Documents\GitHub\NODE-DDMD\EDMD_discrete-spectrum_3" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\nomo\Documents\GitHub\NODE-DDMD" />
-      <recent name="C:\Users\nomo\Documents\GitHub\Neural_Ordinary_Differential_Equations\examples" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -255,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.D">
+  <component name="RunManager" selected="Python.hinan">
     <configuration name="D" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AtCoder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,27 +324,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_151-160/ABC152/D.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Duffing_oscillator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NODE-DDMD" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NODE-DDMD/data" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NODE-DDMD/data/Duffing_oscillator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,19 +353,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MLP-EDMD-DL" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="NODE-DDMD" />
+    <configuration name="Problem_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Shukatsu_IT_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../NODE-DDMD" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Shukatsu_IT_test/MonotaRO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../NODE-DDMD/MLP-EDMD-DL.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Shukatsu_IT_test/MonotaRO/Problem_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Problem_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Shukatsu_IT_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Shukatsu_IT_test/Yahoo/2020" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Shukatsu_IT_test/Yahoo/2020/Problem_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -412,19 +467,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Duffing_oscillator" />
-      <item itemvalue="Python.MLP-EDMD-DL" />
       <item itemvalue="Python.hinan" />
       <item itemvalue="Python.MLP-EDMD-DL (1)" />
       <item itemvalue="Python.D" />
+      <item itemvalue="Python.Problem_1" />
+      <item itemvalue="Python.Problem_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hinan" />
+        <item itemvalue="Python.Problem_1" />
+        <item itemvalue="Python.Problem_3" />
         <item itemvalue="Python.D" />
         <item itemvalue="Python.MLP-EDMD-DL (1)" />
-        <item itemvalue="Python.hinan" />
-        <item itemvalue="Python.MLP-EDMD-DL" />
-        <item itemvalue="Python.Duffing_oscillator" />
       </list>
     </recent_temporary>
   </component>
@@ -461,10 +516,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.157173" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15918803" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
@@ -479,7 +534,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Run" order="3" weight="0.30341882" />
+      <window_info active="true" anchor="right" id="Run" order="3" visible="true" weight="0.2777778" />
       <window_info anchor="right" id="Debug" order="4" weight="0.29807693" />
     </layout>
   </component>
@@ -710,20 +765,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/x2_traj_09.png" />
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/png/x1_traj_05.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/png/x1_traj_02.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/png/x1_traj_03.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/png/x1_traj_06.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/x2_traj_01.png" />
     <entry file="file://$PROJECT_DIR$/../NODE-DDMD/data/spectrum_E_eigfunc.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -873,9 +914,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/hinan.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../AtCoder/AtC_Beg_Con_151-160/ABC152/D.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -923,6 +961,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Shukatsu_IT_test/Yahoo/2020/mondai">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AtCoder/aaLibrary1/Umion_Find2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shukatsu_IT_test/MonotaRO/Problem_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shukatsu_IT_test/RECRUIT/2019SummerIntern/Problem_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shukatsu_IT_test/Yahoo/2020/Problem_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="77" column="14" lean-forward="true" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shukatsu_IT_test/MonotaRO/Problem_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../NODE-PF/EDMD.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4221">
@@ -931,6 +1006,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../NODE-DDMD/hinan.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
